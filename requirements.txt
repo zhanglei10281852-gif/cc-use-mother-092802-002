@@ -1,0 +1,6 @@
+# 运行服务所需
+fastapi>=0.110
+uvicorn>=0.29
+
+# 测试（HTTP 层）
+httpx>=0.27
